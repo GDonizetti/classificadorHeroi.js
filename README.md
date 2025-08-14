@@ -31,4 +31,4 @@ O objetivo é receber o **nome** e a **quantidade de experiência (XP)** de um h
 
 1. **Clone o repositório**:
    ```bash
-   git clone https://github.com/SEU_USUARIO/NOME_REPOSITORIO.git
+   git clone https://github.com/GDonizetti/classificadorHeroi.git
